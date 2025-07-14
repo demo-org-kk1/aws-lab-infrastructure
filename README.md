@@ -1,5 +1,7 @@
 # KodeKloud AWS Lab Infrastructure
 
+**Scorecard Link**: [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/demo-org-kk1/aws-lab-infrastructure/badge)](https://scorecard.dev/viewer/?uri=github.com/demo-org-kk1/aws-lab-infrastructure)
+
 ⚠️ **Demo Repository** - Infrastructure with intentional security vulnerabilities
 
 ## Infrastructure Overview
